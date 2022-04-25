@@ -22,21 +22,17 @@ The apps main functionality comes in the form of the sentence game.
 ### Team Members
 
 - Christopher
-
-Throughout this project, I learned the importance of communication between team members.
+"Throughout this project, I learned the importance of communication between team members."
 
 - Deep
-
-Your spunky quote goes here!
+"This project let me learn how to use a version control system efficiently."
 
 - Jordan
 "I'm really glad I learned about how to make a project maintainable."
 
-Your spunky quote goes here!
 
 - Mehrnaz
-
-Your spunky quote goes here!
+"This project really helped me learn how to best use Android Studio."
 
 - Simon
 "This project helped me learn how to better structure a codebase."
@@ -46,12 +42,7 @@ Your spunky quote goes here!
 Those suffering from Alzheimer's or dementia may have impaired, or declining cognitive skills. A study conducted by Dr. Zahra Moussavi at the biomedical engineering lab of the University of Manitoba has shown that this game, alongside others, called "Mindtriggers" has been proven to be beneficial for those suffering from Alzheimer's or dementia. Decreasing the rate of cognitive decline. However, that series of games is only available on the iOS System. By designing a similar game on Android, this project would increase the number of potential users, allowing more people to access those benefits. 
 
 ## Video
-<<<<<<< HEAD
-
-![CoolVideo](Coolvideotemplate.mp4)
-=======
 [Video Presentation](https://raw.githubusercontent.com/jaunger1999/3350-Presentation/gh-pages/presi.mp4)
->>>>>>> gh-pages
 
 ## Postmortem
 
