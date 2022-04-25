@@ -30,6 +30,7 @@ Throughout this project, I learned the importance of communication between team 
 Your spunky quote goes here!
 
 - Jordan
+"I'm really glad I learned about how to make a project maintainable."
 
 Your spunky quote goes here!
 
@@ -38,16 +39,19 @@ Your spunky quote goes here!
 Your spunky quote goes here!
 
 - Simon
-
-This project helped me learn how to better structure a codebase
+"This project helped me learn how to better structure a codebase."
 
 ### Sales Pitch
 
 Those suffering from Alzheimer's or dementia may have impaired, or declining cognitive skills. A study conducted by Dr. Zahra Moussavi at the biomedical engineering lab of the University of Manitoba has shown that this game, alongside others, called "Mindtriggers" has been proven to be beneficial for those suffering from Alzheimer's or dementia. Decreasing the rate of cognitive decline. However, that series of games is only available on the iOS System. By designing a similar game on Android, this project would increase the number of potential users, allowing more people to access those benefits. 
 
 ## Video
+<<<<<<< HEAD
 
 ![CoolVideo](Coolvideotemplate.mp4)
+=======
+[Video Presentation](https://raw.githubusercontent.com/jaunger1999/3350-Presentation/gh-pages/presi.mp4)
+>>>>>>> gh-pages
 
 ## Postmortem
 
