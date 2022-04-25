@@ -38,8 +38,7 @@ The apps main functionality comes in the form of the sentence game.
 A study conducted by Dr. Zahra Moussavi at the biomedical engineering lab of the University of Manitoba has shown that this game, alongside others, called "Mindtriggers" has been proven to be beneficial for those suffering from Alzheimer's or dementia. However, that series of games is only available on the iOS System. By designing a similar game on Android, this project would increase the number of potential users, allowing more people to access those benefits. 
 
 ## Video
-
-CoolVideo.mp4
+[Video Presentation](https://raw.githubusercontent.com/jaunger1999/3350-Presentation/gh-pages/presi.mp4)
 
 ## Postmortem
 
