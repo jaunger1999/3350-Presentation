@@ -26,12 +26,12 @@ The apps main functionality comes in the form of the sentence game.
 - Deep
 
 - Jordan
+"I'm really glad I learned about how to make a project maintainable."
 
 - Mehrnaz
 
 - Simon
-
-This project helped me learn how to better structure a codebase
+"This project helped me learn how to better structure a codebase."
 
 ### Sales Pitch
 
